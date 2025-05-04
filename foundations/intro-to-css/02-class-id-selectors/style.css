@@ -1,5 +1,20 @@
 .Odd{
-    background-color: lightcoral;
+    background-color: rgb(231, 133, 133);
     font-family:Verdana,'DejaVu Sans',sans-serif;
 
+}
+
+#Second{
+    color:rgb(42, 42, 235);
+    font-size:36px;
+}
+
+#Third{
+    font-size:24px;
+}
+
+#Fourth{
+    background-color:rgb(55, 229, 55);
+    font-weight:700px;
+    font-size:24px;
 }
