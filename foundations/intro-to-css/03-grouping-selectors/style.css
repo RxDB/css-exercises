@@ -1,0 +1,13 @@
+.Blackbtn,.Yellowbtn{
+    font-size:28px;
+    font-family:'Helvetica','Times New Roman', sans-serif;
+}
+
+.Blackbtn{
+    background-color:black;
+    color:white;
+}
+
+.Yellowbtn{
+    background-color:yellow;
+}
